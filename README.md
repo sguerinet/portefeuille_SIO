@@ -20,8 +20,8 @@ Ajouts suivants dans l'application :
     * Les notifications sont signalées (en orange) dans l'interface étudiant, elles doivent être "acquitées" pour disparaitre 
   - Comptes utilisateurs (menu Paramètres)
     * ils sont enrichis : 
-      > pour les étudiants : adresses et  coordonnées de contact (nécessaires à l'établissement de l'attestation)
-      > pour les enseignants : matière enseignées
+      + pour les étudiants : adresses et  coordonnées de contact (nécessaires à l'établissement de l'attestation)
+      + pour les enseignants : matière enseignées
   - Tableau de bord  : la page d'accueil est maintenant un tableau de bord présentant : 
     * pour les profs :
       + aux mois de stage (mai/juin ou janvier/février) la liste des stagiaires à suivre avec lien vers leur carnet de bord et stats sur l'alimentation hebdomadaire
