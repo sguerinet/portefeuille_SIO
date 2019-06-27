@@ -21,16 +21,15 @@ Ajouts suivants dans l'application :
     * ils sont enrichis : 
       > pour les étudiants : adresses et  coordonnées de contact (nécessaires à l'établissement de l'attestation)
       > pour les enseignants : matière enseignées
-  - Tableau de bord
-    * la page d'accueil est maintenant un tableau de bord présentant : 
-      >pour les profs :
-        >> aux mois de stage (mai/juin ou janvier/février) la liste des stagiaires à suivre avec lien vers leur carnet de bord et stats sur l'alimentation hebdomadaire
-        >> la liste des situations à commenter suite à signalement par les étudiants
-        >> les stats sur les acquittements des notifications
-      > pour les étudiants : 
-        >> aux mois de stage, les stats sur le remplissage hebdomadaire du carnet de bord
-        >> la liste des situations commentées par les enseignants et à rectifier
-        >> les notifications avec leur état d'acquittement
+  - Tableau de bord  : la page d'accueil est maintenant un tableau de bord présentant : 
+    * pour les profs :
+      > aux mois de stage (mai/juin ou janvier/février) la liste des stagiaires à suivre avec lien vers leur carnet de bord et stats sur l'alimentation hebdomadaire
+      > la liste des situations à commenter suite à signalement par les étudiants
+      > les stats sur les acquittements des notifications
+    * pour les étudiants : 
+      > aux mois de stage, les stats sur le remplissage hebdomadaire du carnet de bord
+      > la liste des situations commentées par les enseignants et à rectifier
+      > les notifications avec leur état d'acquittement
   - Synthèse
     * Le tableau de synthèse pour E6 est généré au format Excel (quelques bugs, nécessite une installation sous Debian 8)
   
