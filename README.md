@@ -32,5 +32,5 @@ Ajouts suivants dans l'application :
       + la liste des situations commentées par les enseignants et à rectifier
       + les notifications avec leur état d'acquittement
   - Synthèse
-    * Le tableau de synthèse pour E6 est généré au format Excel (quelques bugs, nécessite une installation sous Debian 8)
+    * Le tableau de synthèse pour E6 est généré au format Excel (quelques bugs, nécessite une installation avec PHP5)
   
